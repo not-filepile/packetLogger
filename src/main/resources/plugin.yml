@@ -1,0 +1,5 @@
+name: packetLog
+version: '${version}'
+main: org.filepile.pakcetlogger.PacketLoggerPlugin
+api-version: '1.21'
+load: STARTUP
